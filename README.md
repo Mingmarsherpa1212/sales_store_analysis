@@ -7,7 +7,7 @@ A retail store chain tracks daily sales transactions , including order details ,
 The store doesn’t have a clear idea about :-  
 1. which products sell the most,  
 2. customers preference,  
-3. which items bring in the most profit,and  
+3. which items bring in the most profit, and  
 4. where things are going wrong indelivery or operations.  
 Because of this, they are missing chances to earm more, losing customers, and making poor business decisions.
 
